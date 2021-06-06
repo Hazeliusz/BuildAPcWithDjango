@@ -1,0 +1,11 @@
+
+{
+    "case": {"id": 1},
+    "cpu": {"id": 1},
+    "gpu": {"id": 1},
+    "mobo": {"id": 1},
+    "psu": {"id": 1},
+    "ssd": {"id": 1},
+    "resolution": "1080p",
+    "game": {"id": 2}
+}
